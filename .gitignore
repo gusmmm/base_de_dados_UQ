@@ -1,2 +1,6 @@
 .env
 .sentry-native
+.secrets
+.venv
+input/
+output/

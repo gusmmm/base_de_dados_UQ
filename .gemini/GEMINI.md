@@ -5,6 +5,11 @@
 - the python code and scripts are in subfolders of src/
 - all test code and scripts is in the test/ folder
 
+# python
+- always annotate the code and explain what it does and how to use it
+- use logging 
+- use classes and OOP
+
 # memory
 - you have memory about everything that happens in this project
 - all memory entries are in the .gemini/memory folder
@@ -12,3 +17,8 @@
 
 # google sheets
 - all code used to manage the connection to online google sheets is in the src/google_sheets folder
+- the csv created from the google sheet containing the patient's admission data is in the input/google_sheet/ folder
+
+# terminal output
+- to make the output readable and comfortable use the rich package
+
